@@ -3,5 +3,8 @@
 Recive como parametros el nombre de la ciudad
 
 Recuerda ejecutar
- 
-npm install
+
+```npm install```
+
+###Ejemplo 
+```node app -d "La Vega"```
